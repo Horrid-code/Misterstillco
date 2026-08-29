@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Testing My Automated Portfolio"
+date:   2026-08-29 17:00:00 -0400
+categories: jekyll update
+---
+
+This is a test post written to verify that the iPad-to-server-to-GitHub pipeline is fully functional. If you are reading this on the live site, the automation works seamlessly!
